@@ -1,0 +1,5 @@
+python==3.6
+django==2.0.1
+django-rest-swagger
+coreapi>=2.3.0
+djangorestframework
